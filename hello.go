@@ -22,7 +22,7 @@ func main() {
     fmt.Println(quote.Opt())
 
     // Use github.com/kaming0/greetings
-    message, err := greetings.Hello("") //("Ka Ming")
+    message, err := greetings.Hello("Ka Ming")
     // If an error was returned, print it to the console and
     // exit the program.
     if err != nil {
