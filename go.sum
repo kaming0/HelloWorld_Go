@@ -1,3 +1,5 @@
+github.com/kaming0/greetings v0.0.0-20210713080308-913cc561b829 h1:7IZhTGYtA93QC4oAc9IdG67038T+Cox20ESEmNb0+8s=
+github.com/kaming0/greetings v0.0.0-20210713080308-913cc561b829/go.mod h1:0vPdyIitGU4m7v1BNzLVKsFAq9uKbfxR1GqbRzDOTgA=
 golang.org/x/text v0.0.0-20170915032832-14c0d48ead0c h1:qgOY6WgZOaTkIIMiVjBQcw93ERBE4m30iBm00nkL0i8=
 golang.org/x/text v0.0.0-20170915032832-14c0d48ead0c/go.mod h1:NqM8EUOU14njkJ3fqMW+pc6Ldnwhi/IjpwHt7yyuwOQ=
 rsc.io/quote v1.5.2 h1:w5fcysjrx7yqtD/aO+QwRjYZOKnaM9Uh2b40tElTs3Y=
