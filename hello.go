@@ -2,7 +2,7 @@ package main
 
 import (
     "fmt"
-	"log"
+    "log"
     "github.com/kaming0/greetings"
 )
 
@@ -30,6 +30,21 @@ func main() {
     }
 
     // If no error was returned, print the returned message
-    // to the console.	
+    // to the console.    
     fmt.Println(message)
+
+  // A slice of names.
+    names := []string{"Gladys", "Samantha", "Darrin"}
+
+    // Gets greetings for multiple people
+    messages, err := greetings.Hellos(names)
+    // If an error was returned, print it to the console and
+    // exit the program.
+    if err != nil {
+        log.Fatal(err)
+    }
+
+    // If no error was returned, print the returned message
+    // to the console.    
+    fmt.Println(messages)
 }

@@ -1,5 +1,7 @@
-github.com/kaming0/greetings v0.0.0-20210713090115-4412a399d454 h1:VygTvIEgggHdD6gJ7w5D5k25uAFmUdckgEHK6EXP5Hc=
-github.com/kaming0/greetings v0.0.0-20210713090115-4412a399d454/go.mod h1:0vPdyIitGU4m7v1BNzLVKsFAq9uKbfxR1GqbRzDOTgA=
+github.com/kaming0/greetings v0.0.0-20210713230509-856449906ca2 h1:b2SRAzcbbOHcLBVv0kKSfZIM/1IrWVoYUPtV2o93fqc=
+github.com/kaming0/greetings v0.0.0-20210713230509-856449906ca2/go.mod h1:0vPdyIitGU4m7v1BNzLVKsFAq9uKbfxR1GqbRzDOTgA=
+github.com/kaming0/greetings v0.0.0-20210714004237-9e75fb6a919d h1:eEBqEWMgSEEprRHkuI8XsgY2HeALwxshcdE+oQ2KBRw=
+github.com/kaming0/greetings v0.0.0-20210714004237-9e75fb6a919d/go.mod h1:0vPdyIitGU4m7v1BNzLVKsFAq9uKbfxR1GqbRzDOTgA=
 golang.org/x/text v0.0.0-20170915032832-14c0d48ead0c/go.mod h1:NqM8EUOU14njkJ3fqMW+pc6Ldnwhi/IjpwHt7yyuwOQ=
 golang.org/x/text v0.3.6 h1:aRYxNxv6iGQlyVaZmk6ZgYEDa+Jg18DxebPSrd6bg1M=
 golang.org/x/text v0.3.6/go.mod h1:5Zoc/QRtKVWzQhOtBMvqHzDpF6irO9z98xDceosuGiQ=
